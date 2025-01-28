@@ -1,0 +1,9 @@
+rootProject.name = 'day1_java'
+include 'logging'
+include 'data'
+include 'logging:core'
+findProject(':logging:core')?.name = 'core'
+include 'app'
+include 'core'
+
+

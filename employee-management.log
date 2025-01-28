@@ -1,0 +1,44 @@
+2025-01-28 11:28:45,313 [main] INFO  com.example.app.Main - Employees added.
+2025-01-28 11:28:45,324 [main] INFO  com.example.app.Main - Retrieved employee: Employee{id=1, name='John Doe', age=25, department='Engineering'}
+2025-01-28 11:28:45,324 [main] INFO  com.example.app.Main - Employee updated: Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+2025-01-28 11:28:45,325 [main] INFO  com.example.app.Main - Employees with name 'Jane Smith': [Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+2025-01-28 11:30:13,412 [main] INFO  com.example.app.Main - Employees added.
+2025-01-28 11:30:13,423 [main] INFO  com.example.app.Main - Retrieved employee: Employee{id=1, name='John Doe', age=25, department='Engineering'}
+2025-01-28 11:30:13,423 [main] INFO  com.example.app.Main - Employee updated: Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+2025-01-28 11:30:13,423 [main] INFO  com.example.app.Main - Employees with name 'Jane Smith': [Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+2025-01-28 11:52:52,337 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+2025-01-28 11:52:52,348 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee: Employee{id=1, name='John Doe', age=25, department='Engineering'}
+2025-01-28 11:52:52,348 [main] INFO  com.example.logging.LoggerUtil - Employee updated: Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+2025-01-28 11:52:52,348 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Jane Smith': [Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+2025-01-28 12:05:20,102 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+2025-01-28 12:05:20,112 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee: {} Employee{id=1, name='John Doe', age=25, department='Engineering'}
+2025-01-28 12:05:20,112 [main] INFO  com.example.logging.LoggerUtil - Employee updated: {}Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+2025-01-28 12:05:20,112 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Jane Smith': {}[Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+2025-01-28 12:06:03,860 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+2025-01-28 12:06:03,876 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee: {} Employee{id=1, name='John Doe', age=25, department='Engineering'}
+2025-01-28 12:06:03,876 [main] INFO  com.example.logging.LoggerUtil - Employee updated: {}Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+2025-01-28 12:06:03,876 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Jane Smith': {}[Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+12:09:34 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+12:09:34 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee: {} Employee{id=1, name='John Doe', age=25, department='Engineering'}
+12:09:34 [main] INFO  com.example.logging.LoggerUtil - Employee updated: {}Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+12:09:34 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Jane Smith': {}[Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+12:10:24 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+12:10:24 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee: {} Employee{id=1, name='John Doe', age=25, department='Engineering'}
+12:10:24 [main] INFO  com.example.logging.LoggerUtil - Employee updated: Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+12:10:24 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Jane Smith': [Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+12:10:39 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+12:10:39 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee: {} Employee{id=1, name='John Doe', age=25, department='Engineering'}
+12:10:39 [main] INFO  com.example.logging.LoggerUtil - Employee updated: Employee{id=1, name='John Doe Updated', age=26, department='Engineering Updated'}
+12:10:39 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Jane Smith': [Employee{id=2, name='Jane Smith', age=30, department='HR'}]
+12:13:46 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+12:13:46 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee:  Employee{id=1, name='John Doe', age=25, department='Engineering'}
+12:13:46 [main] INFO  com.example.logging.LoggerUtil - Employee updated: Employee{id=1, name='Arun Updated', age=26, department='Engineering Updated'}
+12:13:46 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Arun': []
+12:14:26 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+12:14:26 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee:  Employee{id=1, name='Arun', age=25, department='Engineering'}
+12:14:26 [main] INFO  com.example.logging.LoggerUtil - Employee updated: Employee{id=1, name='Arun Updated', age=26, department='Engineering Updated'}
+12:14:26 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Arun': [Employee{id=2, name='Arjun', age=27, department='Finance'}]
+12:15:27 [main] INFO  com.example.logging.LoggerUtil - Employees added.
+12:15:27 [main] INFO  com.example.logging.LoggerUtil - Retrieved employee:  Employee{id=1, name='Arun', age=25, department='Engineering'}
+12:15:27 [main] INFO  com.example.logging.LoggerUtil - Employee updated: Employee{id=1, name='Arun Updated', age=26, department='Engineering Updated'}
+12:15:27 [main] INFO  com.example.logging.LoggerUtil - Employees with name 'Arjun': [Employee{id=2, name='Arjun', age=27, department='Finance'}]
